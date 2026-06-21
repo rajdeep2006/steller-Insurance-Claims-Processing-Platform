@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = [
+    "contracts/insurance-claim",
+]
+
+[workspace.dependencies]
+soroban-sdk = "22.0.0"
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
