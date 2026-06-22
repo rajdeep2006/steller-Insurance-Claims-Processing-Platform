@@ -3,7 +3,13 @@
 <img width="2864" height="1534" alt="image" src="https://github.com/user-attachments/assets/f1aa69e4-50c0-40f0-bca4-2a1b4cfe7fde" />
 
 vercel deploy link:https://steller-insurance-claims-processing.vercel.app/
+## Contact Explorer
+1) Steller Expert: https://stellar.expert/explorer/testnet/contract/CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
+2) Contract ID: CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
 
+ ##Freighter Wallet Address
+Freighter Wallet ID:GDJLRVM7RYYE6UJNFWJHW7JON5R2TIMIU73P7ITLLKEU4KGR7DW7XMEO
+ 
 # StellarSure: Decentralized Insurance Claims Processing Platform
 
 StellarSure is a Level 2 DApp built on the Stellar network using Soroban smart contracts. It allows users to enroll in automated insurance policies (Health, Auto, and Travel) by transferring premiums and file claim requests directly to the contract. The admin/underwriter can review, approve, or reject claim requests, which automatically triggers instant native wrapped XLM token payouts.
