@@ -4,13 +4,13 @@
 
 vercel deploy link:https://steller-insurance-claims-processing.vercel.app/
 ## Contact Explorer
-1) Steller Expert: https://stellar.expert/explorer/testnet/contract/CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
+- **Steller Expert: https://stellar.expert/explorer/testnet/contract/CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
    
-2) Contract ID: CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
+- **Contract ID: CDMZG2VULATO3CZX5IBA6F6FTLVP6PEZBBRBUODSBQFUBLEEPQ5I34RO
 
  ## Freighter Wallet Address
  
-Freighter Wallet ID:GDJLRVM7RYYE6UJNFWJHW7JON5R2TIMIU73P7ITLLKEU4KGR7DW7XMEO
+- **Freighter Wallet ID:GDJLRVM7RYYE6UJNFWJHW7JON5R2TIMIU73P7ITLLKEU4KGR7DW7XMEO
  
 # StellarSure: Decentralized Insurance Claims Processing Platform
 
